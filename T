@@ -1,0 +1,6 @@
+1,2,3 - Iris
+4,5 - Diabetes
+6 - weather numeric
+7 - weather nominal
+8 - reuters grain train & test
+9 - segment challenge & segment test
